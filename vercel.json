@@ -2,6 +2,7 @@
     "trailingSlash": false,
     "redirects": [
         { "source": "/", "destination": "https://mattwthomas.com/" },
+        { "source": "/aapas", "destination": "https://mattwthomas.com/assets/pdfs/papers/asymmetric-all-pay-contests-with-spillovers.pdf" },
         { "source": "/:path*", "destination": "https://mattwthomas.com/:path*/" }
     ]
 }
