@@ -1,6 +1,7 @@
 {
     "trailingSlash": false,
     "redirects": [
+        { "source": "/", "destination": "https://mattwthomas.com/" },
         { "source": "/:path", "destination": "https://mattwthomas.com/:path/" }
     ]
 }
