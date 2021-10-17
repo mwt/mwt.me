@@ -6,6 +6,6 @@
         { "source": "/aapas", "destination": "https://mattwthomas.com/assets/pdfs/papers/asymmetric-all-pay-contests-with-spillovers.pdf" },
         { "source": "/spilloverapa", "destination": "https://mattwthomas.com/papers/asymmetric-all-pay-contests-with-spillovers/" },
         { "source": "/covertapa", "destination": "https://mattwthomas.com/papers/covert-discrimination-in-all-pay-contests/" },
-        { "source": "/:path*", "destination": "https://mattwthomas.com/:path*/" }
+        { "source": "/:path([^.].*)", "destination": "https://mattwthomas.com/:path*/" }
     ]
 }
