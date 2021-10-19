@@ -7,8 +7,5 @@
         { "source": "/spilloverapa", "destination": "https://mattwthomas.com/papers/asymmetric-all-pay-contests-with-spillovers/" },
         { "source": "/covertapa", "destination": "https://mattwthomas.com/papers/covert-discrimination-in-all-pay-contests/" },
         { "source": "/:path([^.].*)", "destination": "https://mattwthomas.com/:path*/" }
-    ],
-    "rewrites": [
-        { "source": "/.well-known/acme-challenge/:match*", "destination": "http://89.238.76.44/.well-known/acme-challenge/:match*" }
     ]
 }
