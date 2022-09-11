@@ -3,6 +3,7 @@
     "redirects": [
         { "source": "/", "destination": "https://www.matthewthom.as/" },
         { "source": "/cv", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf" },
+        { "source": "/id", "destination": "https://keyoxide.org/hkp/12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85" },
         { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
         { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/" },
         { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-in-all-pay-contests/" },
