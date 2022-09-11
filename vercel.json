@@ -1,7 +1,7 @@
 {
   "trailingSlash": false,
   "headers": [
-    { "source": "/(.*)",
+    { "source": "/id",
       "headers" : [
         { "key" : "access-control-allow-origin", "value" : "*" }
       ]
