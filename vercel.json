@@ -1,5 +1,12 @@
 {
   "trailingSlash": false,
+  "headers": [
+    { "source": "/(.*)",
+      "headers" : [
+        { "key" : "access-control-allow-origin", "value" : "*" }
+      ]
+    }
+  ],
   "redirects": [
     { "source": "/", "destination": "https://www.matthewthom.as/" },
     { "source": "/cv", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf" },
@@ -8,12 +15,5 @@
     { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/" },
     { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-in-all-pay-contests/" },
     { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" }
-  ],
-  "headers": [
-    { "source": "/(.*)",
-      "headers" : [
-        { "key" : "access-control-allow-origin", "value" : "*" }
-      ]
-    }
   ]
 }
