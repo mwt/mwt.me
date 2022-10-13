@@ -14,6 +14,8 @@
     { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
     { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/" },
     { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-in-all-pay-contests/" },
+    { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/" },
+    { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/" },
     { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" }
   ]
 }
