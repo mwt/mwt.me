@@ -13,9 +13,10 @@
     { "source": "/id", "destination": "https://keyoxide.org/12e711999b101f6f7c0aedbb2f3eb8e26fe75e85", "statusCode": 301 },
     { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
     { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/" },
-    { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-in-all-pay-contests/" },
+    { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-self-promotion/" },
     { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/" },
     { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/" },
+    { "source": "/symnote", "destination": "https://www.matthewthom.as/papers/note-symmetric-contest-design/" },
     { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" }
   ]
 }
