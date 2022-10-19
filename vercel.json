@@ -13,10 +13,13 @@
     { "source": "/id", "destination": "https://keyoxide.org/12e711999b101f6f7c0aedbb2f3eb8e26fe75e85", "statusCode": 301 },
     { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
     { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/" },
+    { "source": "/spilloverapa-pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
     { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-self-promotion/" },
+    { "source": "/covertapa-pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/covert-discrimination-self-promotion.pdf" },
     { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/" },
     { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/" },
     { "source": "/symnote", "destination": "https://www.matthewthom.as/papers/note-symmetric-contest-design/" },
+    { "source": "/symnote-pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/note-symmetric-contest-design.pdf" },
     { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" }
   ]
 }
