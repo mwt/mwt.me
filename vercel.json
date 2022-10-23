@@ -19,8 +19,8 @@
     { "source": "/covertapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/covert-discrimination-self-promotion.pdf" },
     { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/" },
     { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/" },
-    { "source": "/symnote", "destination": "https://www.matthewthom.as/papers/note-symmetric-contest-design/" },
-    { "source": "/symnote.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/note-symmetric-contest-design.pdf" },
+    { "source": "/anocon", "destination": "https://www.matthewthom.as/papers/anonymous-contest-design/" },
+    { "source": "/herdingotc", "destination": "https://www.matthewthom.as/papers/herding-otc-markets/" },
     { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" }
   ]
 }
