@@ -8,19 +8,19 @@
     }
   ],
   "redirects": [
-    { "source": "/", "destination": "https://www.matthewthom.as/" },
-    { "source": "/cv", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf" },
-    { "source": "/cv.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf" },
-    { "source": "/id", "destination": "https://keyoxide.org/12e711999b101f6f7c0aedbb2f3eb8e26fe75e85", "statusCode": 301 },
-    { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
-    { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/" },
-    { "source": "/spilloverapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf" },
-    { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-self-promotion/" },
-    { "source": "/covertapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/covert-discrimination-self-promotion.pdf" },
-    { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/" },
-    { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/" },
-    { "source": "/anocon", "destination": "https://www.matthewthom.as/papers/anonymous-contest-design/" },
-    { "source": "/herdingotc", "destination": "https://www.matthewthom.as/papers/herding-otc-markets/" },
-    { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" }
+    { "source": "/", "destination": "https://www.matthewthom.as/", "statusCode": 307 },
+    { "source": "/cv", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf", "statusCode": 307 },
+    { "source": "/cv.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf", "statusCode": 307 },
+    { "source": "/id", "destination": "https://keyoxide.org/12e711999b101f6f7c0aedbb2f3eb8e26fe75e85", "statusCode": 307 },
+    { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf", "statusCode": 307 },
+    { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/", "statusCode": 307 },
+    { "source": "/spilloverapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf", "statusCode": 307 },
+    { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-self-promotion/", "statusCode": 307 },
+    { "source": "/covertapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/covert-discrimination-self-promotion.pdf", "statusCode": 307 },
+    { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/", "statusCode": 307 },
+    { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/", "statusCode": 307 },
+    { "source": "/anocon", "destination": "https://www.matthewthom.as/papers/anonymous-contest-design/", "statusCode": 307 },
+    { "source": "/herdingotc", "destination": "https://www.matthewthom.as/papers/herding-otc-markets/", "statusCode": 307 },
+    { "source": "/:path([^.].*)", "destination": "https://www.matthewthom.as/:path*/" , "statusCode": 307 }
   ]
 }
