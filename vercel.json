@@ -19,6 +19,7 @@
     { "source": "/covertapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/covert-discrimination-self-promotion.pdf", "statusCode": 307 },
     { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/", "statusCode": 307 },
     { "source": "/jmp.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/regulation-wages-hours.pdf", "statusCode": 307 },
+    { "source": "/ctec.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/ctec.pdf", "statusCode": 307 },
     { "source": "/choiceassess", "destination": "https://www.matthewthom.as/papers/choice-over-assessments/", "statusCode": 307 },
     { "source": "/anocon", "destination": "https://www.matthewthom.as/papers/anonymous-contest-design/", "statusCode": 307 },
     { "source": "/herdingotc", "destination": "https://www.matthewthom.as/papers/herding-otc-markets/", "statusCode": 307 },
