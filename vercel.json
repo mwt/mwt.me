@@ -18,7 +18,7 @@
     { "source": "/covertapa", "destination": "https://www.matthewthom.as/papers/covert-discrimination-self-promotion/", "statusCode": 307 },
     { "source": "/covertapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/covert-discrimination-self-promotion.pdf", "statusCode": 307 },
     { "source": "/jmp", "destination": "https://www.matthewthom.as/papers/regulation-wages-hours/", "statusCode": 307 },
-    { "source": "/jmp.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/regulation-wages-hours.pdf", "statusCode": 307 }.
+    { "source": "/jmp.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/regulation-wages-hours.pdf", "statusCode": 307 },
     { "source": "/JMP1.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/regulation-wages-hours.pdf", "statusCode": 307 },
     { "source": "/JMP2.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf", "statusCode": 307 },
     { "source": "/ctec.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/ctec.pdf", "statusCode": 307 },
