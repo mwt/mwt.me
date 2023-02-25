@@ -12,7 +12,7 @@
     { "source": "/cv", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf", "statusCode": 307 },
     { "source": "/cv.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf", "statusCode": 307 },
     { "source": "/id", "destination": "https://keyoxide.org/12e711999b101f6f7c0aedbb2f3eb8e26fe75e85", "statusCode": 307 },
-    { "source": "/r-kellogg.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/r-kellogg.pdf", "statusCode": 307 },
+    { "source": "/assets/r-kellogg.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/r-kellogg.pdf", "statusCode": 307 },
     { "source": "/aapas", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf", "statusCode": 307 },
     { "source": "/spilloverapa", "destination": "https://www.matthewthom.as/papers/asymmetric-all-pay-auctions-with-spillovers/", "statusCode": 307 },
     { "source": "/spilloverapa.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/papers/asymmetric-all-pay-auctions-with-spillovers.pdf", "statusCode": 307 },
