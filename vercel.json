@@ -9,7 +9,7 @@
   ],
   "redirects": [
     { "source": "/", "destination": "https://www.matthewthom.as/", "statusCode": 307 },
-    { "source": "/cv", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf", "statusCode": 307 },
+    { "source": "/cv", "destination": "https://www.matthewthom.as/cv/", "statusCode": 307 },
     { "source": "/cv.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/cv.pdf", "statusCode": 307 },
     { "source": "/id", "destination": "https://keyoxide.org/12e711999b101f6f7c0aedbb2f3eb8e26fe75e85", "statusCode": 307 },
     { "source": "/assets/r-kellogg.pdf", "destination": "https://www.matthewthom.as/assets/pdfs/r-kellogg.pdf", "statusCode": 307 },
